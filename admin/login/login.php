@@ -125,7 +125,7 @@ if(!empty($varUser) && !empty($varPswd)){
         <p>Sebarang pertanyaan atau cadangan bolehlah diajukan kepada <a href="mailto:eparlimen@islam.gov.my" title="Email">kursus_ilim@islam.gov.my</a></p></b>
 		<div class="card float-center" style="background-color: rgba(0, 0, 0, 0.39); width: 750px; margin-left: 180px; margin-right: 180px;">
 			<div class="card-body">
-				<p class="float-left">Sila log masuk Pengguna ID dan Kata Laluan anda.</p><br><br>
+				<p class="float-left">Sila log masuk Pengguna ID dan Kata Laluan anda. brftbrtnbjtbnr</p><br><br>
 					<form name="form1" method="post" action="index.php?data=<?php print base64_encode(';login/login');?>" onSubmit="validateForm();return document.returnValue"><br>
 					<div class="form-group row">
 						<label for="staticEmail" class="col-sm-2 col-form-label" style="color:#fff;">ID Pengguna</label>
